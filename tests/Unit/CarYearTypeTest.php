@@ -21,4 +21,4 @@ use App\Car;
         $this->assertTrue(is_int($car->year));
 
     }
-}
+}*/
